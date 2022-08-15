@@ -1,26 +1,16 @@
 <?php
- 
-    // $cars = ["Toyota","Nissan","Honda","Suzuki"];
-    // echo $cars;
-    // print_r($cars);
-    // echo $cars[8];
-    // if(isset($cars[8])){
-    //     echo $cars[8];
-    // }else{
-    //     echo "Not found in array as it exceeds the array length";
-    // }
-
-    $models = [
-        "Nissan" => "X-Trail",
-        "Toyota" => "Prado",
-        "Honda" => "Vezel",
-        "Suzuki" => "Altima"
-    ];
-
-    if(isset($models["toyota"])){
-        echo $models["Toyota"];
-    }else{
-        echo "Not Found";
-    }
 
 ?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document <?= $title ?></title>
+</head>
+<body>
+
+</body>
+</html>
