@@ -1,5 +1,4 @@
 <?php
-
 ?>
 
 <!DOCTYPE html>
@@ -11,6 +10,6 @@
     <title>Document <?= $title ?></title>
 </head>
 <body>
-
+    
 </body>
 </html>
